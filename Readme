@@ -1,1 +1,21 @@
-Data Analytics Project
+# Data Analytics Project
+
+#  KEY INSIGHTS AND RECOMMENDATIONS 
+
+ KEY FINDINGS:
+1. Top Performing Category: Books
+2. Best Performing Region: West
+3. Highest Sales Month: July
+4. Best Day of Week Friday
+5. Total Annual Sales: $1,776,486.17
+6. Total Annual Profit: $450,123.71
+
+ BUSINESS RECOMMENDATIONS:
+1. Focus marketing efforts on Books category
+2. Investigate performance in lower-performing regions
+3. Plan promotions around Friday to maximize sales
+4. Allocate inventory based on monthly trend patterns
+5. Monitor correlation between quantity and profit for pricing strategy
+
+ PROFITABILITY ANALYSIS:
+Overall Profit Margin: 25.34%
